@@ -21,7 +21,7 @@ HerSeat is a **Java Spring Boot** application designed to enhance the **safety a
 * **Spring Boot**
 * **Spring Data JPA**
 * **Spring Security**
-* **H2 Database** (for development/testing)
+* **MySQL**
 ---
 
 This project aims to provide peace of mind for female travelers, fostering a more inclusive and secure public transportation experience.
