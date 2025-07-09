@@ -2,7 +2,7 @@
 
 # HerSeat
 
-HerSeat is a **Java Spring Boot** application designed to enhance the **safety and comfort of intercity bus travel for women**. This system provides a unique seating preference feature, allowing female passengers to choose to sit exclusively next to other women, or to specify if they prefer not to have men in adjacent seats.
+HerSeat is a **Java Spring Boot** application designed to enhance the **safety and comfort of intercity bus travel for women**. This system provides a unique seating preference feature, allowing female passengers to choose to sit exclusively next to other women.
 
 ---
 
